@@ -12,6 +12,14 @@ h2{
     color: white;
     top: 200px
 }
+body{
+    background: lightsalmon;
+}
+.center_div{
+    border: 10px solid rosybrown; 
+    width: 98%;
+    background-color: blanchedalmond;
+}
 button {
     background-color: #04AA6D; /* Green */
     border: none;
